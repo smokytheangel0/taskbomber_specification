@@ -57,7 +57,7 @@
 		This document is meant to be read by hiring
 		professionals who work for the various organisations
 		that appear to espouse similar principles in their
-		development environments. Such a person, may find
+		development environments. Such a person may find
 		insight as to whether or not the execution of this
 		project meets their desires for a developer in their
 		organisation. It is also intended to be
