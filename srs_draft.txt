@@ -29,7 +29,7 @@
 
 		This has lead me to experiment with various ways
 		of coding, from the 'lets see what sticks' method
-		heavy on the keystrokes and ^Cs, though the solid
+		heavy on the keystrokes and ^Cs, through the solid
 		foundations brought by the application of poor TDD.
 
 		And so, this code that you may never care to read,
