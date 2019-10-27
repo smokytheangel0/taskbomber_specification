@@ -1,0 +1,58 @@
+1. Purpose
+	This application is designed to illustrate a basic 
+	understanding of the software development process for GUI 
+	applications in five different front end languages, 
+	all sharing a single backend written in rust, 
+	which must also be able to be used as a standalone backend 
+	server with no changes to the code, front end or backend.
+	In this configuration it should be accessible from multiple
+	clients.
+	
+	1.1 Background
+		I have spent most of my life as a user of computers,
+		savvy only to those who were inexperienced in the
+		basic set up and mainenance of them. To these people
+		I made myself seem to be more knowledgeable
+		than I was in truth, this seems to be a caricature
+		visible to any who have met a teenage 'nerd'/gamer,
+		more interested in what coders could do for him,
+		than in what he could do for himself using the power
+		hidden beneath the keyboard of his netbook.
+		
+		Only recently did I find for myself the way of
+		ordering the silicon about, but after my first
+		python tutorial, I grew obsessive, with visions
+		of code perfection that failed to take in a truthful
+		account of reality. This turned out to be a good
+		thing, though, as I was inexplicably attached
+		to the vision of a better computing future.
+
+		This has lead me to experiment with various ways
+		of coding, from the 'lets see what sticks' method
+		heavy on the keystrokes and ^Cs, though the solid
+		foundations brought by the application of poor TDD.
+
+		And so, this code that you may never care to read,
+		is my attempt to carve out a little more of what lies
+		within and lay it concretely out for reality to test.
+		
+		I will be approaching this in a way that I have
+		never before, starting with this very document.
+		As I iterate through this document, and the code
+		meant to come of it, I will attempt to knock out a
+		superficial version of the decade of experience
+		which I ought to have gained by finishing high
+		school and starting the path towards this career
+		in earnest many years passed.
+
+		May the cluster unfuck itself by my hand, and
+		let good fortune come to the weary soul who finds 
+		themselves in the midst of the text which supports 
+		an idea so superfluous.
+		
+
+	1.2 System Overview
+		
+		
+	
+		
